@@ -95,6 +95,8 @@ Functions
 
 - :ref:`exhale_function_conversion_8h_1a87d61e0429716c42f3a5f5e85aad5b61`
 
+- :ref:`exhale_function_packets_8h_1a06ceaf30e970aa4ab42f0a9e831b9bbe`
+
 - :ref:`exhale_function_packets_8h_1ad3bdea22ad439f82174ce27c26bec857`
 
 - :ref:`exhale_function_utils_8h_1a0aef7b410dcb4075e477b10ba3e71f80`
@@ -111,15 +113,17 @@ Functions
 
 - :ref:`exhale_function_rational__utils_8h_1ad2261ff34cb13e16d886d6629ccc7ff7`
 
-- :ref:`exhale_function_demuxing_8h_1a78b157beb45e215aad69f013831788ac`
-
 - :ref:`exhale_function_demuxing_8h_1a325a3202908e610862ad04182e7da81a`
+
+- :ref:`exhale_function_demuxing_8h_1a78b157beb45e215aad69f013831788ac`
 
 - :ref:`exhale_function_filter__graph_8h_1aaa3dba3ab905bd429d038f0bbaa6ce16`
 
 - :ref:`exhale_function_rational__utils_8h_1a471d41ab59aa4991181e401a18e23a74`
 
 - :ref:`exhale_function_utils_8h_1aa1e91130e5d71e8c2a104e4f72296ff3`
+
+- :ref:`exhale_function_packets_8h_1ad4aa4f4b9667a0155f404046973ec2ee`
 
 - :ref:`exhale_function_utils_8h_1a49d051162e06f26b896c8aef4605524b`
 

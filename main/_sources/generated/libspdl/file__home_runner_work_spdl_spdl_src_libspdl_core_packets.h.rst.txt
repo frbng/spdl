@@ -25,6 +25,8 @@ Includes
 --------
 
 
+- ``cstdint``
+
 - ``libspdl/core/codec.h`` (:ref:`file__home_runner_work_spdl_spdl_src_libspdl_core_codec.h`)
 
 - ``libspdl/core/generator.h`` (:ref:`file__home_runner_work_spdl_spdl_src_libspdl_core_generator.h`)
@@ -84,9 +86,13 @@ Functions
 ---------
 
 
+- :ref:`exhale_function_packets_8h_1a06ceaf30e970aa4ab42f0a9e831b9bbe`
+
 - :ref:`exhale_function_packets_8h_1ad3bdea22ad439f82174ce27c26bec857`
 
 - :ref:`exhale_function_packets_8h_1a375c1c657bca786016f8a705e3f2a624`
+
+- :ref:`exhale_function_packets_8h_1ad4aa4f4b9667a0155f404046973ec2ee`
 
 
 Typedefs
